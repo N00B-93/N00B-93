@@ -13,7 +13,8 @@ I am interested in Software Engineering and Cyber Security.
 * 🧠  I'm learning Software Engineering
 * 🤝  I'm open to collaborating on Software Development
 * ⚡  Obsessed with video games
-
+<br>
+<br>
 
 ### Skills
 
@@ -33,7 +34,8 @@ src="https://img.shields.io/github/followers/BlackViking93?logo=github&style=for
 src="https://img.shields.io/twitter/follow/@APlaydetty?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
 /></a>
 <p align="left"> <a href="https://www.facebook.com/Alabeni Omosheye" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/BlackViking93" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/omosheye-alabeni-660b67198" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/@APlaydetty" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
+<br>
+<br>
 
 
 <b>My GitHub Stats</b>
