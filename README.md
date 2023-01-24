@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-HiPREVIEW
-MARKDOWN
-COPY
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David
+My name is David
 =============================================================================================================================
 
 Software Engineer and Ethical Hacker
@@ -49,3 +46,4 @@ src="https://img.shields.io/twitter/follow/@APlaydetty?logo=twitter&style=for-th
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
