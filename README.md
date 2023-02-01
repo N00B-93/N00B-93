@@ -30,7 +30,7 @@ I am interested in Software Engineering and Cyber Security.
 </p>
 <br>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BlackViking=Profile%20views&color=0e75b6&style=flat" alt="David" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BlackViking93&label=Profile%20views&color=0e75b6&style=flat" alt="David"/>
 
 ### Socials
 <a href="https://www.github.com/BlackViking93" target="_blank" rel="noreferrer"><img
