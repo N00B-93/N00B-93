@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackviking93" alt="blackviking93" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@aplay_detty" target="blank"><img src="https://img.shields.io/twitter/follow/@aplay_detty?logo=twitter&style=for-the-badge" alt="@aplay_detty" /></a> </p>
+<p align="left"> <a href="https://twitter.com/APlaydetty?t=XqxNzt-XirRiP5lRu1UDaQ&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/@aplay_detty?logo=twitter&style=for-the-badge" alt="https://twitter.com/APlaydetty?t=XqxNzt-XirRiP5lRu1UDaQ&s=09" /></a> </p>
 
 - 🌍  I'm based in Lagos, Nigeria
 
