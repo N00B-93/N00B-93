@@ -1,58 +1,33 @@
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq-NGi8DM8IjLIhfi3aRg5XYOkpTEJgJ5q4Q&usqp=CAU)
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm David</h1>
+<h3 align="center">A passionate Software Engineer and Ethical Hacker</h3>
 
-My name is David
-=============================================================================================================================
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=blackviking93&label=Profile%20views&color=0e75b6&style=flat" alt="blackviking93" /> </p>
 
-Software Engineer and Ethical Hacker
-------------------------------------
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackviking93" alt="blackviking93" /></a> </p>
 
-I am interested in Software Engineering and Cyber Security.
+<p align="left"> <a href="https://twitter.com/@aplay_detty" target="blank"><img src="https://img.shields.io/twitter/follow/@aplay_detty?logo=twitter&style=for-the-badge" alt="@aplay_detty" /></a> </p>
 
-* 🌍  I'm based in Lagos Nigeria
-* ✉️  You can contact me at [omosheye007@gmail.com](mailto:omosheye007@gmail.com)
-* 🧠  I'm learning Software Engineering
-* 🤝  I'm open to collaborating on Software Development
-* ⚡  Obsessed with video games
-<br>
-<br>
+- 👯 I’m looking to collaborate on **Software Engineering**
 
-### Skills
+- 💬 Ask me about **C, C++, Linuc, HTML, CSS, Python**
 
+- 📫 How to reach me **manlikeavidd@gmail.com**
+
+- ⚡ Fun fact **I'm obsessed with video games**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-
+<a href="https://twitter.com/@aplay_detty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aplay_detty" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alabeni omosheye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alabeni omosheye" height="30" width="40" /></a>
+<a href="https://fb.com/alabeni omosheye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alabeni omosheye" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@code_xx93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@code_xx93" height="30" width="40" /></a>
 </p>
-<br>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BlackViking93&label=Profile%20views&color=0e75b6&style=flat" alt="David"/>
 
-### Socials
-<a href="https://www.github.com/BlackViking93" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/BlackViking93?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a><a href="https://www.twitter.com/@APlaydetty" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/@APlaydetty?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
-/></a>
-<p align="left"> <a href="https://www.facebook.com/Alabeni Omosheye" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/BlackViking93" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/omosheye-alabeni-660b67198" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/@APlaydetty" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-<br>
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackviking93&show_icons=true&locale=en&layout=compact" alt="blackviking93" /></p>
 
-<b>My GitHub Stats</b>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackviking93&show_icons=true&locale=en" alt="blackviking93" /></p>
 
-<a href="http://www.github.com/BlackViking93"><img src="https://github-readme-stats.vercel.app/api?username=BlackViking93&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=10b981&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="BlackViking93's GitHub stats" /></a>
-
-<a href="http://www.github.com/BlackViking93"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackViking93&stroke=10b981&background=000000&ring=a855f7&fire=a855f7&currStreakNum=10b981&currStreakLabel=a855f7&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
-
-<a href="http://www.github.com/BlackViking93"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=BlackViking93&bg_color=000000&color=10b981&line=3382ed&point=10b981&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/BlackViking93" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackViking93&langs_count=10&title_color=a855f7&text_color=10b981&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackviking93&" alt="blackviking93" /></p>
