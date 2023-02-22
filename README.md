@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **Software Engineering**
 
-- 💬 Ask me about **C, C++, Linuc, HTML, CSS, Python**
+- 💬 Ask me about **C, C++, Linux, HTML, CSS, Python**
 
 - 📫 How to reach me **manlikeavidd@gmail.com**
 
