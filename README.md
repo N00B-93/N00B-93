@@ -5,7 +5,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=N00B-93&label=Profile%20views&color=0e75b6&style=flat" alt="N00B-93" /> </p>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackviking93" alt="blackviking93" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=N00B-93" alt="N00B-93" /></a> </p>
 <br>
 <p align="left"> <a href="https://twitter.com/APlaydetty?t=XqxNzt-XirRiP5lRu1UDaQ&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/@aplay_detty?logo=twitter&style=for-the-badge" alt="https://twitter.com/APlaydetty?t=XqxNzt-XirRiP5lRu1UDaQ&s=09" /></a> </p>
 <br>
