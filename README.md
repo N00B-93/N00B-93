@@ -24,7 +24,7 @@
   <a href="mailto:n00b93r@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-     <a href="https://twitter.com/https://N00B_not_SAIBOT">
+     <a href="https://twitter.com/https://@APlaydetty">
     <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/omosheye-alabeni-660b67198/target="_blank">
