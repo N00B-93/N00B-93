@@ -24,6 +24,9 @@
   <a href="mailto:n00b93r@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+     <a href="https://twitter.com/https://Acheye Belema">
+    <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/omosheye-alabeni-660b67198/target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
